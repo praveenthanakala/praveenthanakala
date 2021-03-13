@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praveenthanakala
-- 👀 I’m interested in Core MVC, MVC 5, WebAPI
+- 👀 I’m interested in Core MVC, MVC 5/4, WebAPI
 - 🌱 I’m currently learning Azure DevOps
 
 <!---
